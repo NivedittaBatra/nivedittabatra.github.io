@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. from Bharati Vidyapeeth's College of Engineering, New Delhi, 2017
+* M.Tech. from Indian Institute of Technology Jodhpur, 2021
+* Ph.D from Indian Institute of Technology Jodhpur (ongoing)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Associate Software Developer
+  * GlobalLogic Pvt. Ltd. 
+  * Duties included: Python Developer, Database Manager
+  * Supervisor: Mrs. Amita Gandhi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science
+* Programming
+  * Python
+  * Java
+  * C
+* Social Network Analysis
+* Computational Social Sciences
 
 Publications
 ======
@@ -56,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assistant Head- Student Wellbeing Committee- present
+* Co-founder- Microsoft User Group, New Delhi
