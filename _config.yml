@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &NivedittaBatra
 facebook:
-  username               : 
+  username               : &NivedittaBatra
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Niveditta"
   avatar           : "profile.jpg"
-  bio              : "Researcher at Indian Institute of Technology, Jodhpur. "
+  bio              : "Senior Research Fellow at IIT, Jodhpur. "
   location         : "Jodhpur, Rajasthan, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "nivedittabatra@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
